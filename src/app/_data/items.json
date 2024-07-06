@@ -1,0 +1,85 @@
+[
+    "IronOre",
+    "IronIngot",
+    "IronPlate",
+    "IronRod",
+
+    "Limestone",
+    "Concrete",
+
+    "RawQuartz",
+    "Silica",
+
+    "Screw",
+    "ReinforcedIronPlate",
+    "Rotor",
+
+    "ModularFrame",
+    "HeavyModularFrame",
+    "FusedModularFrame",
+
+    "Coal",
+    "Sulfur",
+    "CompactedCoal",
+    "PetroleumCoke",
+
+    "CateriumOre",
+    "CateriumIngot",
+    "Quickwire",
+    
+    "SteelIngot",
+    "SteelBeam",
+    "SteelPipe",
+    "EncasedIndustrialBeam",
+    "Stator",
+
+    "CopperOre",
+    "CopperIngot",
+    "CopperSheet",
+    "Wire",
+    "Cable",
+
+    "Water",
+    "EmptyCanister",
+
+    "CrudeOil",
+    "PolymerResin",
+    "HeavyOilResidue",
+    "Plastic",
+    "Rubber",
+    "Fuel",
+
+    "CircuitBoard",
+    "AILimiter",
+    "HighSpeedConnector",
+
+    "Bauxite",
+    "AluminumScrap",
+    "AluminumIngot",
+    "AlcladAluminumSheet",
+    "AluminumCasing",
+    "AluminaSolution",
+    "PackagedAluminaSolution",
+    "HeatSink",
+    "Battery",
+
+    "CrystalOscilator",
+    "Beacon",
+
+    "NitrogenGas",
+    "SulfuricAcid",
+    "NitricAcid",
+    "Uranium",
+    "ElectromagneticControlRod",
+
+    "EncasedUraniumCell",
+    "UraniumFuelRod",
+    "UraniumWaste",
+    "NonFissableUranium",
+
+    "PressureConversionCube",
+    "EncasedPlutoniumCell",
+    "PlutoniumPellet",
+    "PlutoniumFuelRod",
+    "PlutoniumWaste"
+]
